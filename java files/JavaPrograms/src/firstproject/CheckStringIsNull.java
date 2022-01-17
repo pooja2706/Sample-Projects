@@ -14,8 +14,10 @@ public class CheckStringIsNull {
 			String str=input.nextLine();
 			
 		System.out.println("The string is "+ isNullEmpty(str));
+		input.close();
+
 		}
-		
+
 		}
 	public static String isNullEmpty(String str) {
 		if(str.equals("null")) {

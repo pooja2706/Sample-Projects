@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.hello",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "JavaPrograms/beginnerProgram.PrimeNumber",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkEvenOrOdd",
+            "request": "launch",
+            "mainClass": "JavaPrograms/beginnerProgram.checkEvenOrOdd",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenOrOdd",
+            "request": "launch",
+            "mainClass": "JavaPrograms/beginnerProgram.evenOrOdd",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciSeries",
+            "request": "launch",
+            "mainClass": "JavaPrograms/beginnerProgram.fibonacciSeries",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "JavaPrograms/beginnerProgram.hello",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch leapYear",
+            "request": "launch",
+            "mainClass": "JavaPrograms/beginnerProgram.leapYear",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayUnionIntersection",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.ArrayUnionIntersection",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch BlankStarPattern",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.BlankStarPattern",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch CyclicallyRotate",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.CyclicallyRotate",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthMaxMin",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.KthMaxMin",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestSumContiguousArray",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.LargestSumContiguousArray",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumMinimumArrayElements",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.MaximumMinimumArrayElements",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberTriangle",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.NumberTriangle",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversingArray",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.ReversingArray",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarTriangle",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.StarTriangle",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarWithNumber",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.StarWithNumber",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfList",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.SumOfList",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerticalStarTriangle",
+            "request": "launch",
+            "mainClass": "JavaPrograms/dsalgo.VerticalStarTriangle",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoDates",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.AddTwoDates",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoMatrix",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.AddTwoMatrix",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayToSet",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.ArrayToSet",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch AverageUsingArrays",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.AverageUsingArrays",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryDecimalConversion",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.BinaryDecimalConversion",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch ByteArrayToDecimal",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.ByteArrayToDecimal",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckIfArrayContainsGivenValue",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.CheckIfArrayContainsGivenValue",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckStringIsNull",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.CheckStringIsNull",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Complex",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.Complex",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConcatenateTwoArrays",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.ConcatenateTwoArrays",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountVowelsAndConsonants",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.CountVowelsAndConsonants",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurrentDateTime",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.CurrentDateTime",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalOctalConversion",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.DecimalOctalConversion",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch DifferenceBetweenTwoTimePeriods",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.DifferenceBetweenTwoTimePeriods",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayAllArrayElements",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.DisplayAllArrayElements",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch FrequencyOfCharacterInString",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.FrequencyOfCharacterInString",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch JoinTwoLists",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.JoinTwoLists",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestElementUsingArray",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.LargestElementUsingArray",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftTriangleStarPattern",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.LeftTriangleStarPattern",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapToList",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.MapToList",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch MillisecondsToSecondsAndMinutes",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.MillisecondsToSecondsAndMinutes",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplyTwoMatrixByPassingFunction",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.MultiplyTwoMatrixByPassingFunction",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplyingTwoMatrix",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.MultiplyingTwoMatrix",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerUsingRecursion",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.PowerUsingRecursion",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.Pyramid",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveWhiteSpace",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.RemoveWhiteSpace",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringCharConversion",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.StringCharConversion",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToDate",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.StringToDate",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch TransposeOfMatrix",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.TransposeOfMatrix",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstProgram",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.firstProgram",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloWorld",
+            "request": "launch",
+            "mainClass": "JavaPrograms/firstproject.helloWorld",
+            "projectName": "JavaPrograms"
+        }
+    ]
+}

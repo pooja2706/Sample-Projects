@@ -24,6 +24,8 @@ public class DecimalOctalConversion {
 		default: System.out.println("Enter a valid integer: ");
 		
 		}
+		input.close();
+
 		}
 		
 	}

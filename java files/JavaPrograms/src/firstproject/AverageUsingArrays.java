@@ -21,6 +21,7 @@ public class AverageUsingArrays {
 		
 		}
 		System.out.println(sum/term);
+		input.close();
 	}
 	}
 }

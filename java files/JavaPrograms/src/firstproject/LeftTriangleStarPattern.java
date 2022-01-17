@@ -1,4 +1,4 @@
-package firstcode;
+package firstproject;
 
 import java.util.Scanner;
 
@@ -23,6 +23,8 @@ public class LeftTriangleStarPattern {
 			}System.out.println();
 		}
 		System.out.println();
+		input.close();
+
 	}
 	}
 }

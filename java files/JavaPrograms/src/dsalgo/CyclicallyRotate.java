@@ -7,9 +7,10 @@ public class CyclicallyRotate {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 		Scanner input=new Scanner(System.in);
+
 		while(true) {
+
 			System.out.print("Enter the number of elements: ");
 			int num=input.nextInt();
 			
@@ -29,9 +30,10 @@ public class CyclicallyRotate {
 			arr.add(0, arr.get(num-1));
 			arr.remove(num);
 			
-			
 			System.out.println(arr);
+
 		}
+
 	}
 
 }

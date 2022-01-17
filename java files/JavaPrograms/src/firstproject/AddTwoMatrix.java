@@ -50,6 +50,9 @@ public class AddTwoMatrix {
 				System.out.print("\n");
 				
 			}
+			input.close();
 		}
+
+		
 			}
 }

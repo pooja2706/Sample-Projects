@@ -25,7 +25,8 @@ public class CheckIfArrayContainsGivenValue {
 		}
 		if(a==0)
 			System.out.println("It is not present.");
-			
+			input.close();
+
 	}
 	}
 }

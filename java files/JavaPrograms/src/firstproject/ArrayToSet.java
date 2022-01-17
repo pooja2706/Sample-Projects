@@ -1,4 +1,4 @@
-package firstcode;
+package firstproject;
 
 import java.util.*;
 public class ArrayToSet {

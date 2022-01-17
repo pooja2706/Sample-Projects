@@ -24,8 +24,10 @@ public class LargestElementUsingArray {
 			
 		}
 		System.out.println("The largest number is "+largest);
-		
+		input.close();
+
 		}
+		
 		
 	}
 

@@ -53,6 +53,8 @@ public class MultiplyingTwoMatrix {
 			}
 			System.out.print("\n");
 		}
+		input.close();
+
 	}
 	}
 }

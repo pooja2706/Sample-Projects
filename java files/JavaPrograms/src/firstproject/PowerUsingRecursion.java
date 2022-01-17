@@ -13,6 +13,8 @@ public class PowerUsingRecursion {
 	int mntsa=input.nextInt();
 	
 	System.out.println(power(base,mntsa));
+	input.close();
+
 	}
 
 	}

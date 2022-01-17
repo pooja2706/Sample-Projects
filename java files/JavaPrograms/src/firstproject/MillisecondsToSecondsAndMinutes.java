@@ -17,7 +17,8 @@ public class MillisecondsToSecondsAndMinutes {
 			long min=TimeUnit.MILLISECONDS.toMinutes(ms);
 			
 			System.out.println("Time in seconds: "+sec+"\nTime in minutes: "+min);
-			
+			input.close();
+
 		}
 	}
 }

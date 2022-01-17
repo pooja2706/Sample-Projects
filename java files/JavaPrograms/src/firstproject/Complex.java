@@ -15,9 +15,7 @@ public class Complex {
 	public static void main(String[] args) {
 		
 		Scanner input=new Scanner(System.in);
-		
-		double real, img;
-		Complex n1=new Complex(0.0, 0.0),
+				Complex n1=new Complex(0.0, 0.0),
 				n2=new Complex(0.0, 0.0), temp;
 		
 		
@@ -34,6 +32,8 @@ public class Complex {
 		temp=add(n1, n2);
 		
 		System.out.print("Sum is "+temp.real+"+"+temp.img+"i");
+		input.close();
+
 		
 	}
 	

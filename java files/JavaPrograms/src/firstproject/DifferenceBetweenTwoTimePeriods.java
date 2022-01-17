@@ -15,8 +15,7 @@ public class DifferenceBetweenTwoTimePeriods {
 	public static void main(String[] args) {
 		
 		Scanner input=new Scanner(System.in);
-		
-		
+				
 		DifferenceBetweenTwoTimePeriods start=new DifferenceBetweenTwoTimePeriods(0, 0, 0), stop=new DifferenceBetweenTwoTimePeriods(0, 0, 0), diff;
 		
 		System.out.print("Starting time,\nHour: ");
@@ -36,6 +35,8 @@ public class DifferenceBetweenTwoTimePeriods {
 		diff=difference(start, stop);
 		
 		System.out.print("The difference is "+diff.hr+"hr"+diff.min+"min"+diff.sec+"sec");
+		input.close();
+
 	}
 	
 	public static DifferenceBetweenTwoTimePeriods difference(DifferenceBetweenTwoTimePeriods start, DifferenceBetweenTwoTimePeriods stop) {
@@ -56,4 +57,5 @@ public class DifferenceBetweenTwoTimePeriods {
 		}
 		return diff;
 	}
+
 }

@@ -26,6 +26,8 @@ public class StringCharConversion {
 		 		
 		default: System.out.println("Enter a valid number!!"); 		
 		}
+		input.close();
+
 		}
 	}
 }

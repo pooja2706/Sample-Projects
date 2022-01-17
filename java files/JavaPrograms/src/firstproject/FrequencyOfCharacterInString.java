@@ -8,7 +8,6 @@ public class FrequencyOfCharacterInString {
 		
 		Scanner input=new Scanner(System.in);
 		
-			
 		System.out.println("Enter a sentence: ");
 		String sentence=input.nextLine();
 		
@@ -26,6 +25,9 @@ public class FrequencyOfCharacterInString {
 		}
 		
 		System.out.println("Frequency of "+ch+" is "+ frequency);
+		input.close();
+
 		}
+
 	}
 }

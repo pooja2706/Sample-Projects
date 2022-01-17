@@ -32,6 +32,8 @@ public class CountVowelsAndConsonants {
 			
 		}
 			System.out.println("Vowels are: "+vowel+"\nConsonants are: "+consonant);
+			input.close();
+
 		}
 	}
 }

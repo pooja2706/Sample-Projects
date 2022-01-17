@@ -26,6 +26,7 @@ public class BlankStarPattern {
 			System.out.print("* ");
 		}
 		System.out.println();
+		input.close();
 	}
 	}
 }

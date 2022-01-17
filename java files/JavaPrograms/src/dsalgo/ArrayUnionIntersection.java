@@ -38,6 +38,8 @@ public class ArrayUnionIntersection {
 		
 		union(a1, a2, num1);
 		intersection(a1, a2, num1);
+		input.close();
+
 	}
 	}
 	

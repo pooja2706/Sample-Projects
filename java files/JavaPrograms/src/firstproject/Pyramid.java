@@ -31,6 +31,8 @@ public class Pyramid {
 				n--;
 				s+=2;
 			}
+			input.close();
+
 	}
 	}
 

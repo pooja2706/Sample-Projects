@@ -13,5 +13,7 @@ public class RemoveWhiteSpace {
 		
 			sentence=sentence.replaceAll("\\s", "");//\\s is used to finds all whitespace, tabs, new line character.
 			System.out.print(sentence);
+			input.close();
+
 	}
 }

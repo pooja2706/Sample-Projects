@@ -29,6 +29,7 @@ public class TransposeOfMatrix {
 				System.out.print(a[j][i]+"\t");
 			}System.out.println();
 		}
-		
+		input.close();
+
 	}
 }
