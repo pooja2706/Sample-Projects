@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Launch hello",
             "request": "launch",
+            "mainClass": "JavaPrograms/javaLab.hello",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciSeries",
+            "request": "launch",
+            "mainClass": "JavaPrograms/javaLab.fibonacciSeries",
+            "projectName": "JavaPrograms"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
             "mainClass": "JavaPrograms/firstproject.hello",
             "projectName": "JavaPrograms"
         },
