@@ -8,6 +8,7 @@
             "type": "java",
             "name": "Launch hello",
             "request": "launch",
+<<<<<<< HEAD
             "mainClass": "JavaPrograms/javaLab.hello",
             "projectName": "JavaPrograms"
         },
@@ -22,6 +23,8 @@
             "type": "java",
             "name": "Launch hello",
             "request": "launch",
+=======
+>>>>>>> e3170f0b42d7dc6eb2dc92729b5a1ee21a1f8c75
             "mainClass": "JavaPrograms/firstproject.hello",
             "projectName": "JavaPrograms"
         },
